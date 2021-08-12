@@ -37,11 +37,13 @@ public class MainClass {
 
         // Задача 5.
         System.out.println("Задача 5.");
+
         int number3 = 74;
         System.out.println(number3 / 10 + number3 % 10);
 
         // Задача 6*.
         System.out.println("Задача 6*.");
+
         int number4 = 38;
         int even1stNumber = number4 / 10 % 2;
         int even2ndNumber = number4 % 2;
@@ -70,6 +72,7 @@ public class MainClass {
 
         // Задача 8.
         System.out.println("Задача 8.");
+
         int number6 = 452;
         if (number6 >= 100) {
             System.out.println(--number6);
@@ -79,6 +82,7 @@ public class MainClass {
 
         // Задача 9.
         System.out.println("Задача 9.");
+
         int number7 = 57;
         int firstNumber = number1 / 10;
         int secondNumber = number7 % 10;
